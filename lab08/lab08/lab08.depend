@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1679520983 source:d:\labolatory_git\masnyi-vladyslav-ki222\lab08\lab08\main.cpp
+	<iostream>
+	"ModulesMasnyi.h"
+
+1679520239 d:\labolatory_git\masnyi-vladyslav-ki222\lab08\lab08\modulesmasnyi.h
+	<iostream>
+	<math.h>
+
